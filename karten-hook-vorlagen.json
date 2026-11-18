@@ -1,0 +1,22 @@
+{
+ "name": "V01-karten-hook",
+ "logo": "logo-weiss.png",
+ "foto": "raw/baustelle-full.jpg",
+ "fokus": [
+  0.25,
+  0.4
+ ],
+ "karte": "img/karte-osm.jpg",
+ "osm_credit": false,
+ "primary": "#006AB5",
+ "headline": [
+  "ABTEILUNGS-",
+  "LEITUNG"
+ ],
+ "headline_zusatz": "Tiefbau-Straße (m/w/d)",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Radolfzell & Umgebung"
+}

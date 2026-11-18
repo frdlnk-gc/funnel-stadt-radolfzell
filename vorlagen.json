@@ -1,0 +1,32 @@
+{
+ "firma": "Stadt Radolfzell",
+ "p": "#006AB5",
+ "p2": "#2A8AD4",
+ "dark": "#0B3A63",
+ "acc": "#9FD3FF",
+ "stelle": "Abteilungsleitung Tiefbau-Straße (m/w/d)",
+ "ort": "Radolfzell",
+ "umg": "Radolfzell · Singen · Konstanz",
+ "zentrum": [
+  47.7374,
+  8.9689
+ ],
+ "r_sub": "Für alle aus Singen, Konstanz, Stockach und Umgebung.",
+ "r_avatar": [
+  "raw/baustelle-full.jpg",
+  "22% 25%",
+  "330%"
+ ],
+ "sg_photo": [
+  "raw/baustelle-full.jpg",
+  "20% 50%"
+ ],
+ "sg_ring": [
+  "STADT RADOLFZELL",
+  "MITARBEITENDE"
+ ],
+ "sg_small": "ÜBER",
+ "sg_big": "700",
+ "sg_big_size": 84,
+ "sg_sub": "Unbefristet – mit kurzem Freitag und flexiblen Arbeitszeiten."
+}

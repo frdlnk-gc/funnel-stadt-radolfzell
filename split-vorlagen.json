@@ -1,0 +1,39 @@
+[
+ {
+  "name": "V02-wir-suchen",
+  "logo": "logo-hd.png",
+  "primary": "#006AB5",
+  "headline": [
+   "Abteilungsleitung",
+   "Tiefbau-Straße (m/w/d)"
+  ],
+  "foto": "raw/mole-konzertsegel-full.jpg",
+  "panel": "top",
+  "panel_hoehe": 0.56,
+  "fokus": [
+   0.5,
+   0.5
+  ],
+  "kicker": "WIR SUCHEN IN RADOLFZELL",
+  "subline": "Unbefristet, in Vollzeit oder Teilzeit – mit kurzem Freitag.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten"
+ },
+ {
+  "name": "V02-wir-suchen",
+  "format": "9x16",
+  "logo": "logo-hd.png",
+  "primary": "#006AB5",
+  "headline": [
+   "Abteilungsleitung",
+   "Tiefbau-Straße (m/w/d)"
+  ],
+  "foto": "raw/mole-konzertsegel-full.jpg",
+  "zoom_9x16": 1.15,
+  "fokus_9x16": [
+   0.62,
+   0.25
+  ],
+  "kicker": "RADOLFZELL (78315)",
+  "cta": "Job-Angebot in 60 Sek. erhalten"
+ }
+]
