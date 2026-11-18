@@ -1,0 +1,136 @@
+{
+ "firma": "Stadt Radolfzell",
+ "stelle": "Abteilungsleitung Tiefbau-Straße (m/w/d)",
+ "ort": "Radolfzell am Bodensee",
+ "plz": "78315",
+ "branche": "strassen_tiefbau",
+ "stelle_id": 1476,
+ "arbeitsbereich": "Straßen- und Tiefbau",
+ "farbe_primary": "#006AB5",
+ "farbe_secondary": "#1D1D1B",
+ "region_badge": "Radolfzell & Umgebung",
+ "benefit_top": "Unbefristet & kurzer Freitag",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag – krisensicherer Arbeitsplatz mit langfristiger Perspektive",
+  "Vollzeit oder Teilzeit",
+  "Flexible und familienfreundliche Arbeitszeiten & kurzer Freitag",
+  "Jahresprämie & vermögenswirksame Leistungen",
+  "Betriebliche Altersvorsorge",
+  "Radolfzeller Jobrad & Zuschuss zum Job-Ticket (z. B. auch Deutschland-Ticket)",
+  "Regelmäßige Fort- und Weiterbildungsangebote",
+  "Betriebliches Gesundheitsmanagement mit Sport- und Erholungsangeboten (u. a. epassi-Firmenfitness)",
+  "Hilfe bei der Wohnungssuche",
+  "Mitarbeiter-Events (z. B. Teambuilding) & freundliches Arbeitsklima",
+  "Verantwortungsvolle und abwechslungsreiche Tätigkeit"
+ ],
+ "aufgaben": [
+  "Du leitest die Abteilung Tiefbau mit 4 Mitarbeitern – personell, fachlich und organisatorisch – und entwickelst sie strategisch weiter",
+  "Du wirkst bei der Planung baulicher Maßnahmen für Erhalt und Entwicklung der städtischen Verkehrsinfrastruktur mit",
+  "Du steuerst städtische Bauvorhaben im Straßen- und Tiefbau samt Ingenieurbauwerken – mit Budgetverantwortung in Bauherrenfunktion",
+  "Du entwickelst nachhaltige Verkehrs- und Mobilitätskonzepte (z. B. ÖPNV, Radwege, Barrierefreiheit) auf Basis des Verkehrsentwicklungsplans",
+  "Du entwickelst digitale Prozesse mit fachspezifischer Software weiter",
+  "Du erstellst Vorlagen für Verkehrsinfrastrukturprojekte und präsentierst sie in den politischen Gremien und Ausschüssen"
+ ],
+ "anforderung": "Ein abgeschlossenes Studium (Master/Diplom) als Ingenieur (m/w/d), vorzugsweise Straßen- und Verkehrswesen, Tiefbau oder Baubetrieb und Baumanagement – oder eine vergleichbare Ausbildung. Dazu fundiertes Rechts- und Fachwissen, einschlägige Berufserfahrung im Straßen- und Verkehrswesen (vorzugsweise in der öffentlichen Verwaltung), Kommunikationsstärke und Führerschein Klasse B.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Straßen- und Verkehrswesen / Tiefbau",
+   "icon": "🚧",
+   "qualifikationen": [
+    {
+     "label": "Master/Diplom + Erfahrung in der Verwaltung",
+     "icon": "🏛️"
+    },
+    {
+     "label": "Master/Diplom + Erfahrung in der Wirtschaft",
+     "icon": "🏅"
+    },
+    {
+     "label": "Bachelor / vergleichbare Ausbildung",
+     "icon": "🎓"
+    }
+   ]
+  },
+  {
+   "label": "Baubetrieb / Baumanagement",
+   "icon": "🏗️",
+   "qualifikationen": [
+    {
+     "label": "Master/Diplom + Erfahrung in der Verwaltung",
+     "icon": "🏛️"
+    },
+    {
+     "label": "Master/Diplom + Erfahrung in der Wirtschaft",
+     "icon": "🏅"
+    },
+    {
+     "label": "Bachelor / vergleichbare Ausbildung",
+     "icon": "🎓"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Abgeschlossenes Studium",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Quereinsteiger",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "fuehrerschein_optionen": [
+  {
+   "label": "Ja, Klasse B",
+   "icon": "🚗"
+  },
+  {
+   "label": "Nein",
+   "icon": "❌"
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "762",
+    "label": "Mitarbeiter"
+   },
+   {
+    "zahl": "4",
+    "label": "in deiner Abteilung"
+   },
+   {
+    "zahl": "✓",
+    "label": "am Bodensee"
+   }
+  ],
+  "text": "Radolfzell liegt am Westufer des Bodensees und steht für hohe Lebensqualität, Naturverbundenheit und Nachhaltigkeit, eine starke Wirtschaft und Kulturszene. Die Stadtverwaltung versteht sich als Dienstleisterin für ihre Bürgerinnen und Bürger und als moderne Arbeitgeberin für über 700 Mitarbeitende – mit wertschätzendem Arbeitsklima, abwechslungsreichen Aufgaben und vielfältigen Möglichkeiten zur Weiterentwicklung."
+ },
+ "kunde_tab": "61 Stadt Radolfzell",
+ "quelle": "https://stadt-radolfzell.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Radolfzell am Bodensee (78315)"
+ },
+ "hero_bild": "img/hero-baustelle-strasse.jpg",
+ "bilder": [
+  "img/foto-altstadt-see.jpg",
+  "img/foto-mole-konzertsegel.jpg",
+  "img/foto-hafen-konzertsegel.jpg",
+  "img/foto-rathaus.jpg"
+ ],
+ "meta_geo": [
+  "Marktplatz 2, 78315 Radolfzell"
+ ]
+}
